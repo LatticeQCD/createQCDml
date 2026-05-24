@@ -46,7 +46,7 @@ class HISQAction(quarkAction):
 #
 # Algorithm lookup tables.
 #
-algorithmGlossary          = { 'RHMC' : 'https://latticeqcd.github.io/SIMULATeQCD/03_applications/rhmc.html' }
+algorithmGlossary          = { 'RHMC' : 'https://github.com/LatticeQCD/createQCDml/blob/main/glossaries/algorithm/RHMC.pdf' }
 algorithmReference         = { 'RHMC' : 'Phys. Rev. Lett. 98 (2007) 051601' }
 algorithmExactness         = { 'RHMC' : 'true' } # Has MH step; considered exact also by KC.
 algorithmReweightingNeeded = { 'RHMC' : 'false' }
@@ -54,6 +54,6 @@ algorithmReweightingNeeded = { 'RHMC' : 'false' }
 #
 # Link treatment glossary lookup table.
 #
-treatmentGlossary = { 'fat7QuarkLinkTreatment'    : 'http://www.lqcd.org/ildg/actionGlossaries/fat7QuarkLinkTreatment.pdf',
-                      'projectGroupLinkTreatment' : 'http://www.lqcd.org/ildg/actionGlossaries/projectGroupLinkTreatment.pdf',
-                      'asqTadQuarkLinkTreatment'  : 'http://www.lqcd.org/ildg/actionGlossaries/asqTadQuarkLinkTreatment.pdf' }
+treatmentGlossary = { 'fat7QuarkLinkTreatment'    : 'https://github.com/LatticeQCD/createQCDml/blob/main/glossaries/action/fat7QuarkLinkTreatment.pdf',
+                      'projectGroupLinkTreatment' : 'https://github.com/LatticeQCD/createQCDml/blob/main/glossaries/action/U3AnalyticProjectionLinkTreatment.pdf',
+                      'asqTadQuarkLinkTreatment'  : 'https://github.com/LatticeQCD/createQCDml/blob/main/glossaries/action/asqTadQuarkLinkTreatment.pdf' }

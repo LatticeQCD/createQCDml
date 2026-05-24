@@ -31,4 +31,4 @@ asqTadQuarkLinks = { 'cNaik'       : -1/24,
 
 algorithm = "RHMC"
 
-glossary = 'https://latticeqcd.github.io/SIMULATeQCD/05_modules/HISQforce.html'
+glossary = 'https://github.com/LatticeQCD/createQCDml/blob/main/glossaries/action/hisqQuarkAction.pdf'

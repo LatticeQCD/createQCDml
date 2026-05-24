@@ -35,4 +35,4 @@ class treeSymanzikAction(gluonAction):
 # The QCDml schema requires a 'glossary' entry. Here we store standard glossary entries, to
 # keep the user from having to look it up.
 #
-glossaryDict = { 'treelevelSymanzikGluonAction' : 'http://www.lqcd.org/ildg/actionGlossaries/treelevelSymanzikGluonAction.pdf' }
+glossaryDict = { 'treelevelSymanzikGluonAction' : 'https://github.com/LatticeQCD/createQCDml/blob/main/glossaries/action/treelevelSymanzikGluonAction.pdf' }
